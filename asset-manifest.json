@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/FrontEnd_TCC_CSTSI/static/css/main.52f72f29.css",
-    "main.js": "/FrontEnd_TCC_CSTSI/static/js/main.ef74ef5c.js",
-    "index.html": "/FrontEnd_TCC_CSTSI/index.html",
-    "main.52f72f29.css.map": "/FrontEnd_TCC_CSTSI/static/css/main.52f72f29.css.map",
-    "main.ef74ef5c.js.map": "/FrontEnd_TCC_CSTSI/static/js/main.ef74ef5c.js.map"
+    "main.css": "/static/css/main.52f72f29.css",
+    "main.js": "/static/js/main.ef74ef5c.js",
+    "index.html": "/index.html",
+    "main.52f72f29.css.map": "/static/css/main.52f72f29.css.map",
+    "main.ef74ef5c.js.map": "/static/js/main.ef74ef5c.js.map"
   },
   "entrypoints": [
     "static/css/main.52f72f29.css",
